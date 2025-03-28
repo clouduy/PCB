@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\onedrive\×ÀÃæ\28³ÂÓêóÏ\³ÂÓêóÏTest.PcbDoc
+Date         : 2024/12/6
+Time         : 11:25:21
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 81
+    Connections routed, 81
+    Connections remaing, 0
+count : 4

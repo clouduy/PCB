@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_DS1302|SchDesignator=U_DS1302|FileName=DS1302.SchDoc|SymbolType=Normal|RawFileName=DS1302.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Keys|SchDesignator=U_Keys|FileName=Keys.SchDoc|SymbolType=Normal|RawFileName=Keys.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_LED|SchDesignator=U_LED|FileName=LED.SchDoc|SymbolType=Normal|RawFileName=LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_STM89C52|SchDesignator=U_STM89C52|FileName=STM89C52.SchDoc|SymbolType=Normal|RawFileName=STM89C52.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Top.SchDoc

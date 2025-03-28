@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [28³ÂÓêóÏTest.PrjPCB]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 11:24:27 On 2024/12/6

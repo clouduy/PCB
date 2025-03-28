@@ -1,0 +1,269 @@
+*************************************************************
+FileName = ³ÂÓêóÏTest.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : ³ÂÓêóÏTest.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ³ÂÓêóÏTest.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ³ÂÓêóÏTest.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ³ÂÓêóÏTest.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ³ÂÓêóÏTest.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ³ÂÓêóÏTest.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ³ÂÓêóÏTest.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ³ÂÓêóÏTest.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D32
+    D36
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ³ÂÓêóÏTest.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ³ÂÓêóÏTest.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ³ÂÓêóÏTest.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D35
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ³ÂÓêóÏTest.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D35
+*************************************************************
+

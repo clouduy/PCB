@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ³ÂÓêóÏTest.PcbDoc   2024/12/6  11:22:36
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ³ÂÓêóÏTest.TXT
+EIA File   : ³ÂÓêóÏTest.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.62mil (0.59995mm)     Round          48               7.10 Inch (180.35 mm)
+T2        27.56mil (0.70002mm)     Round          18               9.26 Inch (235.17 mm)
+T3        28mil (0.7112mm)         Round          31               11.81 Inch (299.89 mm)
+T4        30mil (0.762mm)          Round          6                4.58 Inch (116.23 mm)
+T5        33.46mil (0.84988mm)     Round          2                0.40 Inch (10.16 mm)
+T6        35.43mil (0.89992mm)     Round          15               3.10 Inch (78.74 mm)
+T7        39.37mil (1mm)           Round          28               10.60 Inch (269.23 mm)
+T8        42mil (1.0668mm)         Round          4                3.18 Inch (80.82 mm)
+T9        43.31mil (1.10007mm)     Round          2                0.41 Inch (10.30 mm)
+---------------------------------------------------------------------------
+Totals                                            154              50.43 Inch (1280.90 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
